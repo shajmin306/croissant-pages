@@ -1,0 +1,19 @@
+body {
+  background: #f8e8a6;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  padding: 20px;
+}
+.links {
+  color: green;
+  display: flex;
+  justify-content: space-around;
+}

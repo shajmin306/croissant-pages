@@ -1,0 +1,13 @@
+body {
+  background: #f8e8a6;
+}
+
+h1,
+p {
+  text-align: center;
+}
+.links {
+  color: green;
+  display: flex;
+  justify-content: space-around;
+}
